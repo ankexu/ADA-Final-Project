@@ -2,7 +2,9 @@
 Columbia University GR5291 Advanced Data Analysis Group 14
 
 ### Code
-* [Data Proprocessing](https://colab.research.google.com/drive/1_lrNRPoWZeHqz4rCv50nCJVtrosqgiMX#scrollTo=82VQcV0S-my-)
+
+* [婧宜部分的代码](./doc/Jingyi.ipynb)
+
 
 ### References:
 
